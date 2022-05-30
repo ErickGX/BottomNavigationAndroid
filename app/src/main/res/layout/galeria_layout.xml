@@ -35,4 +35,5 @@
 
     </com.google.android.material.tabs.TabLayout>
 
+    <include
 </androidx.coordinatorlayout.widget.CoordinatorLayout>
